@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one line of plain text, a joke about a meeting that should have been an email","license":"MIT","main":"main.ts","name":"meeting-should-have-been-email","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
